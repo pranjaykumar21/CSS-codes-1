@@ -1,0 +1,23 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    border: 2px solid rgb(36, 17, 205);
+    display: inline-block;
+    margin: 25px;
+    padding: 25px;
+    border-radius: 25%;
+}
+
+
+#box1 {
+    background-image: url("view_photo.jpg");
+    background-size: cover;
+    color: aliceblue;
+}
+
+#box2 {
+    background-image: url("love_photo.jpg");
+    background-size: cover;
+    color: aliceblue;
+}
